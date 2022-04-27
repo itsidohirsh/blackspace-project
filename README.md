@@ -1,5 +1,5 @@
 # Blackspace project
-Project book for my 12th grade high school cyber project, blackspace 🌌
+Project documentation for my 12th grade high school cyber project, blackspace 🌌
 
 ## What is in here?
 In this repository you can find my project book, which explains the project, as well as all the files I used while building the project.
